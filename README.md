@@ -6,8 +6,6 @@
   <br>
 </h1>
 
-<h3 align=center>Join Discord <a href=https://discord.gg/fBkQdPU> Plaxy Community</a></h3>
-
 ## Features
 
   * Navbar With Pop Up Menu
